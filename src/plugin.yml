@@ -1,0 +1,5 @@
+name: TheSource
+author: Jed / Peraldon
+version: 0.2
+description: A plugin utility manager
+main: co.uk.jedpalmer.thesource.TheSource

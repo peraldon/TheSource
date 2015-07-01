@@ -1,0 +1,5 @@
+plugins:
+updates:
+  local: true
+  #double backward slash please
+  address: "D:\\Work\\Isles Softworks\\Clue Series\\PluginUpdater"
